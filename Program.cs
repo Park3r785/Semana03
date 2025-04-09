@@ -14,6 +14,7 @@ namespace Proyect01
             double a;
             a = Math.PI * (Math.Pow(r, 2));
             Console.WriteLine("Hola :v");
+            Console.WriteLine("Como estas?");
             Console.WriteLine("El área del círculo es " + a);
             Console.ReadKey();
         }
