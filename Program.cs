@@ -11,8 +11,9 @@ namespace Proyect01
         static void Main(string[] args)
         {
             const int r = 5;
-            double a,c;
+            double a;
             a = Math.PI * (Math.Pow(r, 2));
+            Console.WriteLine("Hola :v");
             Console.WriteLine("El área del círculo es " + a);
             Console.ReadKey();
         }
